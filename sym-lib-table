@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom)(type Legacy)(uri ${KIPRJMOD}/libraries/custom.lib)(options "")(descr ""))
+  (lib (name SMPS-Output-Filter-rescue)(type Legacy)(uri ${KIPRJMOD}/SMPS-Output-Filter-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+	<head>
+		<meta charset="utf-8" />
+<meta name="title" content="Electrical Power Solutions: Interpoint®" />
+<link rel="canonical" href="https://www.craneae.com/products/interpoint" />
+<meta name="description" content="Crane Aerospace &amp; Electronics&#039; Interpoint® brand offers DC-DC converters and EMI filters with proven performance in the extreme environments of space and defense as well as the high reliability requirements for commercial air and industrial applications." />
+<meta name="keywords" content="Interpoint, Crane A&amp;E, EMI filters, DC-DC converters, space, high-reliability electrical power" />
+<meta name="google-site-verification" content="TOoiEzpX4QeNzKwcfnSfwC0wK0uEijp-_lHgnshQRZ4" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/craneae/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.craneae.com/products/interpoint" />
+<script src="/sites/default/files/google_tag/google_tag.script.js?qvtzlk"></script>
+
+		<title>Electrical Power Solutions: Interpoint®</title>
+		<link rel="stylesheet" media="all" href="/sites/default/files/css/css_pY62dQHhxANNPeFot6VdUkQDhOqJTZ-guSO_TQlXTYc.css" />
+<link rel="stylesheet" media="all" href="//use.typekit.net/kjf4hkt.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_GJL6iB3_4YLuoCHscW8hxm8K3UqSwsnhvOUFT0S3YLU.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_eZTrkKTKXSOgycXrudIHTCSfYjGUyMNOwOKbLIUwdYI.css" />
+
+		
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+	</head>
+	<body class="no-sidebar path-node products-interpoint page-node-type-page page-node-1017">
+		<a id="page-top" href="#main-content" class="visually-hidden focusable">
+			Skip to main content
+		</a>
+		<noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTKCZXQ" height="0" width="0" title="Google Tag Manager"></iframe></noscript>
+		  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+	
+
+	<div class="layout-container-main">
+	<header class="header" role="banner">
+						<div class="header-content container">
+		<div class="d-flex header-inner">
+			<div id="block-craneae-branding" class="block-craneae-branding block">
+	<div class="block-outer">
+		<div class="block-inner">
+			
+			
+			      <a href="/" title="Home" rel="home">
+      <img src="/themes/craneae/logo.svg" alt="Home" />
+    </a>
+        <div class="site-name visually-hidden">
+      <a href="/" title="Home" rel="home">Crane Aerospace &amp; Electronics</a>
+    </div>
+        <div class="site-slogan visually-hidden">Sensing, Fluid Management, Power Solutions, Landing Systems, Cabin Systems, and Microwave Solutions</div>
+  
+			
+		</div>
+	</div>
+</div>
+<nav role="navigation" aria-labelledby="block-craneae-main-menu-menu" id="block-craneae-main-menu" class="block-craneae-main-menu">
+	<div class="menu-close" data-toggle="offcanvas" data-target="#block-craneae-main-menu" aria-controls="block-craneae-main-menu" aria-expanded="false" aria-label="Toggle navigation"></div>
+
+						
+	<h2 class="visually-hidden" id="block-craneae-main-menu-menu">Main navigation</h2>
+
+				
+						<ul block="craneae_main_menu" class="menu" role="menu">
+		
+								<li class="menu-item innovation">
+									<a href="/innovation" title="Innovation" data-drupal-link-system-path="node/4667">Innovation</a>
+							</li>
+
+			
+								<li class="menu-item expanded has-children products">
+									<a href="/our-products" data-drupal-link-system-path="node/4599">Products</a><button class="dropdown-toggle has-parent-link"><span class="visually-hidden">Products dropdown</span><span class="dropdown-arrow"><i class="fa fa-angle-down"></i></span></button><ul class="sub-menu"><li class="menu-item sensing-components--systems"><a href="/sensing-components-systems" data-drupal-link-system-path="node/17">Sensing Components &amp; Systems</a></li><li class="menu-item landing-systems"><a href="/landing-systems" data-drupal-link-system-path="node/11">Landing Systems</a></li><li class="menu-item fluid-management"><a href="/fluid-management" data-drupal-link-system-path="node/5">Fluid Management</a></li><li class="menu-item electrical-power-solutions"><a href="/electrical-power-solutions" data-drupal-link-system-path="node/15">Electrical Power Solutions</a></li><li class="menu-item interpoint®-modular-power"><a href="/interpoint" title="Interpoint Modular Power">Interpoint® Modular Power</a></li><li class="menu-item microwave-solutions"><a href="/microwave-solutions" data-drupal-link-system-path="node/13">Microwave Solutions</a></li><li class="menu-item cabin-systems"><a href="/cabin-systems" data-drupal-link-system-path="node/9">Cabin Systems</a></li><li class="menu-item product-finder"><a href="/solutions/product-finder" data-drupal-link-system-path="node/483">Product Finder</a></li></ul>							</li>
+
+			
+								<li class="menu-item expanded has-children support">
+									<a href="/aftermarket/aftermarket-support">Support</a><button class="dropdown-toggle has-parent-link"><span class="visually-hidden">Support dropdown</span><span class="dropdown-arrow"><i class="fa fa-angle-down"></i></span></button><ul class="sub-menu"><li class="menu-item aftermarket-support"><a href="/support/aftermarket-support" data-drupal-link-system-path="node/59">Aftermarket Support</a></li><li class="menu-item aog-aircraft-on-ground"><a href="/aog" data-drupal-link-system-path="node/4597">AOG (Aircraft on Ground)</a></li><li class="menu-item collapsed component-maintenance-manuals"><a href="/aftermarket/component-maintenance-manuals" data-drupal-link-system-path="node/103">Component Maintenance Manuals</a></li><li class="menu-item modernizations-and-upgrades"><a href="/modernizations-and-upgrades" data-drupal-link-system-path="node/117">Modernizations and Upgrades</a></li><li class="menu-item repair-capabilities"><a href="/aftermarket/repair-capabilities" data-drupal-link-system-path="node/543">Repair Capabilities</a></li><li class="menu-item rfq"><a href="/RFQ" data-drupal-link-system-path="node/109">RFQ</a></li><li class="menu-item military-rfq"><a href="/military-quotes/registration-military-quotes" data-drupal-link-system-path="node/733">Military RFQ</a></li><li class="menu-item spares-catalog"><a href="/support/commercial-spares" data-drupal-link-system-path="node/79">Spares Catalog</a></li><li class="menu-item supportweb"><a href="/aftermarket/supportweb" data-drupal-link-system-path="node/81">SupportWeb</a></li></ul>							</li>
+
+			
+								<li class="menu-item expanded has-children company">
+									<a href="/about-us-phase-ii">Company</a><button class="dropdown-toggle has-parent-link"><span class="visually-hidden">Company dropdown</span><span class="dropdown-arrow"><i class="fa fa-angle-down"></i></span></button><ul class="sub-menu"><li class="menu-item about-us"><a href="/company/about-crane-ae" data-drupal-link-system-path="node/4605">About Us</a></li><li class="menu-item brands"><a href="/company/about-us-brands" data-drupal-link-system-path="node/475">Brands</a></li><li class="menu-item our-quality"><a href="/quality" data-drupal-link-system-path="node/49">Our Quality</a></li><li class="menu-item upcoming-events"><a href="/company/upcoming-events" data-drupal-link-system-path="node/4552">Upcoming Events</a></li><li class="menu-item locations"><a href="/company/locations" data-drupal-link-system-path="node/477">Locations</a></li><li class="menu-item contact-us"><a href="/company/contact-us" data-drupal-link-system-path="node/101">Contact Us</a></li><li class="menu-item investors"><a href="https://www.craneco.com/investors" target="_blank">Investors</a></li></ul>							</li>
+
+			
+								<li class="menu-item careers">
+									<a href="/careers-phase-ii">Careers</a>
+							</li>
+
+			
+								<li class="menu-item news">
+									<a href="/crane-ae-news" data-drupal-link-system-path="node/95">News</a>
+							</li>
+
+							<li class="menu-item search-block-toggle-li">
+					<a class="search-block-toggle" data-toggle="collapse" href="#search-block" role="button" aria-expanded="false" aria-controls="search-block">
+						<span class="visually-hidden">Search </span>
+						<i class="fa fa-search"></i>
+					</a>
+				</li>
+			
+		
+
+		</ul>
+	
+
+
+	
+	
+</nav>
+
+
+			<div class="menu-toggle" data-toggle="offcanvas" data-target="#block-craneae-main-menu" aria-controls="block-craneae-main-menu" aria-expanded="false" aria-label="Toggle navigation">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+	</div>
+	<div class="collapse bleed-md" id="search-block">
+<div class="views-exposed-form bef-exposed-form block-exposedformsearch-resultspage-1 block" data-drupal-selector="views-exposed-form-search-results-page-1" data-msg-required="This field is required." id="block-exposedformsearch-resultspage-1">
+	<div class="block-outer">
+		<div class="block-inner">
+			
+			
+							  <form block="exposedformsearch_resultspage_1" action="/search" method="get" id="views-exposed-form-search-results-page-1" accept-charset="UTF-8" class="form form-views-exposed-form-search-results-page-1 container">
+  <div class="js-form-item form-item js-form-type-textfield form-item-results js-form-item-results">
+      <label for="edit-results">Search</label>
+        <input data-drupal-selector="edit-results" data-msg-required="This field is required." data-msg-maxlength="This field field has a maximum length of 128." type="text" id="edit-results" name="results" value="" size="30" maxlength="128" placeholder="Search" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" data-msg-required="This field is required." id="edit-actions"><input data-drupal-selector="edit-submit-search-results" data-msg-required="This field is required." type="submit" id="edit-submit-search-results" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+			
+						<div class="d-none d-md-block">
+				<p style="margin-top: 35px; text-align: center;">To search for a product, please use the Product Finder listed under 'Solutions' above.</p>
+			</div>
+			
+			
+		</div>
+	</div>
+</div>
+</div>
+
+
+	</header>
+
+	
+	
+
+	
+	
+
+	<main class="main" role="main">
+		<a id="main-content" tabindex="-1"></a>
+		
+
+		
+		
+
+
+		<div class="layout-content">
+					<div class="content">
+		<div id="block-craneae-content" class="block-craneae-content block">
+	<div class="block-outer">
+		<div class="block-inner">
+			
+			
+							
+
+  
+
+
+<article data-history-node-id="1017" role="article" about="/products/interpoint" typeof="schema:WebPage" class="article article--full article--type--page">
+
+    
+          <span property="schema:name" content="Interpoint" class="hidden"></span>
+
+    <div>
+
+                                    
+                
+        <div  data-history-node-id="1017" role="article" about="/products/interpoint" typeof="schema:WebPage" class="article article--full article--type--page landing-hero landing-hero--is-image d-none d-md-block header-height-fit" style="background-image: url('/sites/default/files/hero-images/interpoint-banner.jpg');">
+
+            
+                                                    
+                        <div  class="landing-hero__copy-block landing-hero__copy-block--is-image">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            
+                            <h1 class="market-landing-title">Electrical Power Solutions: Interpoint<sup>®</sup></h1>                            
+            <div property="schema:text" class="body"><p><a class="btn--slider" href="#product-selector">PRODUCT SELECTOR</a></p>
+</div>
+      
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+        </div>
+
+
+
+                <div class="mobile-title-area d-block d-md-none" style="background-image: url('/sites/default/files/hero-images/interpoint-banner.jpg');">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                                                    <h1 class="market-landing-title">Electrical Power Solutions: Interpoint<sup>®</sup></h1>
+                                                
+            <div property="schema:text" class="body"><p><a class="btn--slider" href="#product-selector">PRODUCT SELECTOR</a></p>
+</div>
+      
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="container">
+            <div class="block-craneae-breadcrumbs">
+                <div class="block">
+	<div class="block-outer">
+		<div class="block-inner">
+			
+			
+							  <nav role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  <a href="/products">Products</a>
+              </li>
+          <li>
+                  Interpoint
+              </li>
+        </ol>
+  </nav>
+
+			
+			
+		</div>
+	</div>
+</div>
+
+            </div>
+
+                                                        
+        </div><!-- container -->
+
+        
+                    
+      <div class="field-sections">
+              <div>
+
+
+	
+
+
+
+
+
+
+
+					
+						
+
+		
+
+      <div class="paragraph paragraph--type--section paragraph--view-mode--default bg-transparent has-bg-color no-bg-img gutter-width-default has-sidebar" id="about-interpoint" style="background-image: url('');">
+      
+	<div class="container">
+				<div class="">
+						<h2 class="field-section-title">Powering Solutions, Powering Tomorrow</h2>
+								</div>
+		
+			<div class="row has-sidebar-wrapper">
+			<div class="col col-12 col-lg-8 section-content">
+				<div class="row section-row">
+											<div class="section-column col col-12 col-lg-12"><div class="paragraph paragraph--type--text-area paragraph--view-mode--default">
+	
+      <div class="field-text-area">
+              <div><p><span><span>Crane Aerospace &amp; Electronics' Interpoint<sup>®</sup> brand offers DC-DC converters and EMI filters with proven performance in the extreme environments of space and defense as well as the high reliability requirements for commercial air and industrial applications. As an industry leader since 1969, the Interpoint brand is known for manufacturing high-reliability power-conversion products and custom hybrids for the aerospace, space, military, medical, industrial, and commercial markets.</span></span></p>
+
+<p><span><span>Interpoint was:</span></span></p>
+
+<ul type="disc">
+	<li><span><span>One of the first manufacturers to certify class H per MIL-STD-1772 (Certification Requirements for Hybrid Microcircuit Facilities and Lines), December 1987</span></span></li>
+	<li><span><span>Issued class H hybrid DC-DC converter Standard Microcircuit Drawing (SMD), July 1992</span></span></li>
+	<li><span><span>Issued class K hybrid DC-DC converter Standard Microcircuit Drawing, October 1997</span></span></li>
+	<li><span><span>One of first manufacturers to certify class K per MIL-PRF-38534 (Performance Spec, for Hybrid Microelectronics), March 1997</span></span></li>
+	<li><span><span>One of the first hybrid microelectronics manufacturers to certify AS9100, May 2004</span></span></li>
+</ul>
+
+<p><span><span>Interpoint offers more than 1,000 models of standard product DC-DC converters and electromagnetic interference (EMI) filters as well as radiation tolerant power conversion products for space and custom DC-DC converters. Interpoint is listed in MIL-PRF-38534’s Qualified Manufacturers List (QML) and NASA’s PPL-21.</span></span></p>
+
+<p><span><span>Interpoint <a href="/interpoint-patents">patents</a> used in our products make use of some of the most innovative technologies.</span></span></p>
+
+<p><span><span>Founded in 1969 as Integrated Circuits Incorporated (ICI), the name was changed to Interpoint in January of 1989. Interpoint was purchased by Crane Co. in 1996. In 1999, Interpoint became part of the newly formed Crane Aerospace segment. The segment name was changed to Crane Aerospace &amp; Electronics in 2002.</span></span></p>
+
+<p><span><span>We support Crane’s founder, R.T. Crane Jr.’s philosophy: “I am resolved to conduct my business in the strictest honesty and fairness; to avoid all deception and trickery; to deal fairly with both customers and competitors; to be liberal and just towards employees; and to put my whole mind upon the business.”</span></span></p></div>
+          </div>
+  
+</div></div>
+									</div>
+			</div>
+			<div class="col col-12 col-lg-4 section-sidebar">
+				
+      <div class="field-section-sidebar">
+              <div><div class="paragraph paragraph--type--sidebar-group paragraph--view-mode--default">
+	<h5 class="field-sidebar-group-title">Products</h5>
+	
+      <div class="field-sidebar-group-items">
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="#product-selector"
+			>Product Selector</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="/space-eo"
+			>In-stock: Interpoint Space Products</a>
+</div></div>
+          </div>
+  
+
+	
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-group paragraph--view-mode--default">
+	<h5 class="field-sidebar-group-title">Contact</h5>
+	
+      <div class="field-sidebar-group-items">
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-contact field-sidebar-link">
+	
+	<a href="/company/contact-us?category=363"
+			>Sales</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-contact field-sidebar-link">
+	
+	<a href="/interpoint-product-inquiry"
+			>Interpoint Product Inquiry</a>
+</div></div>
+          </div>
+  
+
+	
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-group paragraph--view-mode--default">
+	<h5 class="field-sidebar-group-title">Brochures</h5>
+	
+      <div class="field-sidebar-group-items">
+              <div><div class="paragraph paragraph--type--document paragraph--view-mode--default">
+	
+            <div class="field-sidebar-item-document"><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.craneae.com/sites/default/files/documents/Electrical%20Power%20Solutions%20Electrification%2010.7.19_0.pdf" type="application/pdf; length=1077341" title="Electrical Power Solutions Electrification 10.7.19_0.pdf">Electrical Power Solutions</a></span>
+</div>
+      
+</div></div>
+              <div><div class="paragraph paragraph--type--document paragraph--view-mode--default">
+	
+            <div class="field-sidebar-item-document"><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.craneae.com/sites/default/files/gallery-images/interpoint/pdfs/Standard%20Power%20Interpoint%20HiRel%20Cat.pdf" type="application/pdf; length=2303258" title="Standard Power Interpoint HiRel Cat.pdf">High Reliability Catalog</a></span>
+</div>
+      
+</div></div>
+              <div><div class="paragraph paragraph--type--document paragraph--view-mode--default">
+	
+            <div class="field-sidebar-item-document"><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.craneae.com/sites/default/files/documents/Standard_Power_Interpoint_Space_Cat_0.pdf" type="application/pdf; length=1419111" title="Standard_Power_Interpoint_Space_Cat_0.pdf">Space Catalog</a></span>
+</div>
+      
+</div></div>
+              <div><div class="paragraph paragraph--type--document paragraph--view-mode--default">
+	
+            <div class="field-sidebar-item-document"><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.craneae.com/sites/default/files/gallery-images/interpoint/pdfs/HiRel%20Product%20Portrait.pdf" type="application/pdf; length=196662" title="HiRel Product Portrait.pdf">High Reliability Product Portrait</a></span>
+</div>
+      
+</div></div>
+              <div><div class="paragraph paragraph--type--document paragraph--view-mode--default">
+	
+            <div class="field-sidebar-item-document"><span class="file file--mime-application-pdf file--application-pdf"><a href="https://www.craneae.com/sites/default/files/gallery-images/interpoint/pdfs/Space%20Product%20Portraits.pdf" type="application/pdf; length=630672" title="Space Product Portraits.pdf">Space Product Portrait</a></span>
+</div>
+      
+</div></div>
+          </div>
+  
+
+	
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-group paragraph--view-mode--default">
+	<h5 class="field-sidebar-group-title">Resources</h5>
+	
+      <div class="field-sidebar-group-items">
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="/interpoint-resources/datasheets"
+			>Data Sheets</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="/interpoint-resources/whitepapers"
+			>Whitepapers</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="/interpoint-resources/application-notes"
+			>Application Notes</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="/quality"
+			>Quality Certifications</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--sidebar-link paragraph--view-mode--default link-none field-sidebar-link">
+	
+	<a href="/sites/default/files/documents/CE-TC-002.pdf"
+			>Terms &amp; Conditions</a>
+</div></div>
+          </div>
+  
+
+	
+</div></div>
+          </div>
+  
+			</div>
+		</div>
+		<div class="hr"></div>
+
+	
+
+	</div>
+	
+</div>
+
+
+
+</div>
+              <div>
+
+
+	
+
+
+
+
+
+
+
+	
+						
+
+		
+
+      <div class="paragraph paragraph--type--section paragraph--view-mode--default bg-transparent has-bg-color no-bg-img gutter-width-default" id="product-selector" style="background-image: url('');">
+      
+	<div class="container">
+				<div class="">
+						<h2 class="field-section-title">Interpoint<sup>®</sup> Product Selector</h2>
+									<div class="field-section-intro">
+            <div class="field-section-intro"><p>Select any filter and click on Show Products to see results or i<span><span><span>nput product family name in the search bar. e.g. MSA.</span></span></span>.<span> Not finding what you are looking for? Use our <a href="/interpoint-product-inquiry">Interpoint Product Inquiry Form</a> to send us a message.</span></p></div>
+      </div>
+					</div>
+		
+			<div class="row section-row">
+							<div class="section-column col col-12 col-lg-12"><div class="paragraph paragraph--type--view-reference paragraph--view-mode--default">
+	
+            <div class="field-view"><div class="views-element-container"><div class="js-view-dom-id-89a90b4422177ec6bfeb97c9a425d221a598f4f99dc81358aaf15da5f4b6998e">
+  
+  
+  
+
+  
+    <form class="views-exposed-form bef-exposed-form form form-views-exposed-form-product-selector-block-1" data-drupal-selector="views-exposed-form-product-selector-block-1" data-msg-required="This field is required." action="/products/interpoint" method="get" id="views-exposed-form-product-selector-block-1" accept-charset="UTF-8">
+  <div class="product-selector-wrapper" id="product_selector">
+    
+    
+    
+    <div class="row">
+        <div class="mt-2 col-md-12">
+            <div class="js-form-item form-item js-form-type-textfield form-item-combine js-form-item-combine form-no-label">
+        <input placeholder="Search by title or product number and click submit" data-drupal-selector="edit-combine" data-msg-required="This field is required." data-msg-maxlength="This field field has a maximum length of 128." type="text" id="edit-combine" name="combine" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="mt-2 col-md-6">
+            <div class="js-form-item form-item js-form-type-select form-item-field-product-application-value js-form-item-field-product-application-value">
+      <label for="edit-field-product-application-value">Product Application</label>
+        <select data-drupal-selector="edit-field-product-application-value" data-msg-required="This field is required." id="edit-field-product-application-value" name="field_product_application_value" class="form-select"><option value="All" selected="selected">- Any -</option><option value="space">Space</option><option value="high_reliability">High Reliability</option><option value="industrial">Industrial</option></select>
+        </div>
+
+            <div class="js-form-item form-item js-form-type-select form-item-field-product-type-value js-form-item-field-product-type-value">
+      <label for="edit-field-product-type-value">Product Type</label>
+        <select data-drupal-selector="edit-field-product-type-value" data-msg-required="This field is required." id="edit-field-product-type-value" name="field_product_type_value" class="form-select"><option value="All" selected="selected">- Any -</option><option value="Converters">DC-DC Converters</option><option value="Filters">EMI Filters</option><option value="Special">Special Products &amp; Accessories</option></select>
+        </div>
+
+            <div class="js-form-item form-item js-form-type-select form-item-input-voltage js-form-item-input-voltage">
+      <label for="edit-input-voltage">Nominal Input Voltage</label>
+        <select data-drupal-selector="edit-input-voltage" data-msg-required="This field is required." id="edit-input-voltage" name="input_voltage" size="1" class="form-select"><option value="" selected="selected">All</option><option value="5">5</option><option value="28">28</option><option value="42">42</option><option value="120">120</option><option value="270">270</option></select>
+        </div>
+
+            <div class="js-form-item form-item js-form-type-select form-item-number-of-outputs js-form-item-number-of-outputs">
+      <label for="edit-number-of-outputs">Number of Outputs</label>
+        <select data-drupal-selector="edit-number-of-outputs" data-msg-required="This field is required." id="edit-number-of-outputs" name="number_of_outputs" size="1" class="form-select"><option value="" selected="selected">All</option><option value="1">1</option><option value="2">2</option><option value="3">3</option></select>
+        </div>
+
+        </div>
+        <div class="mt-2 col-md-6">
+            <div class="js-form-item form-item js-form-type-select form-item-primary-output-voltage js-form-item-primary-output-voltage">
+      <label for="edit-primary-output-voltage">Output Voltage</label>
+        <select data-drupal-selector="edit-primary-output-voltage" data-msg-required="This field is required." id="edit-primary-output-voltage" name="primary_output_voltage" size="1" class="form-select"><option value="" selected="selected">All</option><option value="+/-12">+/-12</option><option value="+/-15">+/-15</option><option value="+/-5">+/-5</option><option value="adj.">adj.</option><option value="adjustable">adjustable</option><option value="1.8">1.8</option><option value="1.9.9">1.9.9</option><option value="2.5">2.5</option><option value="±3.3">±3.3</option><option value="3.3">3.3</option><option value=" ±5"> ±5</option><option value="±5">±5</option><option value="5">5</option><option value="5.2">5.2</option><option value="5.3">5.3</option><option value="5.7">5.7</option><option value="±6.3">±6.3</option><option value="6.3">6.3</option><option value="±7">±7</option><option value="8.5">8.5</option><option value="8.7">8.7</option><option value="9">9</option><option value="±9.5">±9.5</option><option value="9.5">9.5</option><option value="±12">±12</option><option value="12">12</option><option value="±15">±15</option><option value=" ±15"> ±15</option><option value="15">15</option><option value="18">18</option><option value="28">28</option></select>
+        </div>
+
+            <div class="js-form-item form-item js-form-type-select form-item-primary-output-power js-form-item-primary-output-power">
+      <label for="edit-primary-output-power">Total Output Power (W) / Current (A)</label>
+        <select data-drupal-selector="edit-primary-output-power" data-msg-required="This field is required." id="edit-primary-output-power" name="primary_output_power" size="1" class="form-select"><option value="" selected="selected">All</option><option value="variable">variable</option><option value="var.">var.</option><option value="0.8">0.8</option><option value="1.5">1.5</option><option value="2.5">2.5</option><option value="2.7">2.7</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="6.65">6.65</option><option value="7">7</option><option value="8">8</option><option value="10">10</option><option value="11.9">11.9</option><option value="12">12</option><option value="12.48">12.48</option><option value="12.5">12.5</option><option value="15">15</option><option value="18">18</option><option value="20">20</option><option value="20.8">20.8</option><option value="21">21</option><option value="23">23</option><option value="25">25</option><option value="30">30</option><option value="35">35</option><option value="40">40</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="53">53</option><option value="60">60</option><option value="65">65</option><option value="66">66</option><option value="70">70</option><option value="80">80</option><option value="90">90</option><option value="100">100</option><option value="105">105</option><option value="110">110</option><option value="120">120</option></select>
+        </div>
+
+            <div class="js-form-item form-item js-form-type-select form-item-auxiliary-output-voltage js-form-item-auxiliary-output-voltage">
+      <label for="edit-auxiliary-output-voltage">Auxiliary Output Voltage</label>
+        <select data-drupal-selector="edit-auxiliary-output-voltage" data-msg-required="This field is required." id="edit-auxiliary-output-voltage" name="auxiliary_output_voltage" size="1" class="form-select"><option value="" selected="selected">All</option><option value="±7">±7</option><option value="±12">±12</option><option value="±15">±15</option></select>
+        </div>
+
+            <div class="js-form-item form-item js-form-type-select form-item-auxiliary-output-power js-form-item-auxiliary-output-power">
+      <label for="edit-auxiliary-output-power">Auxiliary Output Power</label>
+        <select data-drupal-selector="edit-auxiliary-output-power" data-msg-required="This field is required." id="edit-auxiliary-output-power" name="auxiliary_output_power" size="1" class="form-select"><option value="" selected="selected">All</option></select>
+        </div>
+
+            <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" data-msg-required="This field is required." id="edit-actions"><input data-drupal-selector="edit-submit-product-selector" data-msg-required="This field is required." type="submit" id="edit-submit-product-selector" value="Show Products" class="button js-form-submit form-submit" />
+</div>
+
+        </div>
+    </div>
+</div><!-- product-finder-wrapper -->
+
+</form>
+
+  
+  
+  
+  
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+</div>
+      
+</div></div>
+					</div>
+	
+
+	</div>
+	
+</div>
+
+
+
+</div>
+          </div>
+  
+            <div class="field-background-video"><div class="paragraph paragraph--type--video-upload paragraph--view-mode--default">
+	
+</div></div>
+      
+        
+    </div>
+
+</article>
+
+			
+			
+		</div>
+	</div>
+</div>
+
+	</div>
+
+		</div>
+	</main>
+	</div><!-- layout-container-main -->
+
+			<footer class="footer" role="contentinfo">
+					<div class="footer-content container">
+		<div class="row">
+			<div id="block-footercolumn1" class="block-footercolumn1 block col-md-6 col-lg-2">
+    <div class="block-outer">
+        <div class="block-inner">
+            
+                            <h2>History</h2>
+            
+                            
+            <div class="body"><p>Crane Co. (NYSE: CR) is a diversified manufacturer of highly engineered industrial products. Founded in 1855, Crane employs more than 11,000 people at over 150 locations in 26 countries.<br />
+<a href="https://www.craneco.com/">Learn More</a></p></div>
+      
+            
+            
+        </div>
+    </div>
+            </div>
+<div id="block-contact" class="block-contact block col-md-3 col-lg-2">
+	<div class="block-outer">
+		<div class="block-inner">
+			
+							<h2>Contact</h2>
+			
+							
+            <div class="body"><p><a href="mailto:info@craneae.com">info@craneae.com</a><br />
+<a href="tel:1-425-743-1313">p: +1 425.743.1313</a><br />
+<a href="/company/contact-us">Contact Finder</a></p></div>
+      
+			
+			
+		</div>
+	</div>
+</div>
+
+    <div id="block-footersolutions" class="block-footersolutions block col-md-6 col-lg-2">
+    <div class="block-outer">
+        <div class="block-inner">
+            
+                            <h2>Products</h2>
+            
+                            
+						<ul block="footersolutions" class="menu" role="menu">
+		
+								<li class="menu-item sensing-components--systems">
+									<a href="/sensing-components-systems" data-drupal-link-system-path="node/17">Sensing Components &amp; Systems</a>
+											</li>
+								<li class="menu-item landing-systems">
+									<a href="/landing-systems" data-drupal-link-system-path="node/11">Landing Systems</a>
+											</li>
+								<li class="menu-item fluid-management">
+									<a href="/fluid-management" data-drupal-link-system-path="node/5">Fluid Management</a>
+											</li>
+								<li class="menu-item electrical-power-solutions">
+									<a href="/electrical-power-solutions" data-drupal-link-system-path="node/15">Electrical Power Solutions</a>
+											</li>
+								<li class="menu-item microwave-solutions">
+									<a href="/microwave-solutions" data-drupal-link-system-path="node/13">Microwave Solutions</a>
+											</li>
+								<li class="menu-item cabin-systems">
+									<a href="/cabin-systems" data-drupal-link-system-path="node/9">Cabin Systems</a>
+											</li>
+								<li class="menu-item product-finder">
+									<a href="/solutions/product-finder" data-drupal-link-system-path="node/483">Product Finder</a>
+											</li>
+		
+		</ul>
+	
+
+
+            
+            
+        </div>
+    </div>
+            </div>
+<nav role="navigation" aria-labelledby="block-footerservices-menu" id="block-footerservices" class="block-footerservices col-md-3 col-lg-2">
+            
+    <h2 id="block-footerservices-menu">Aftermarket</h2>
+
+                
+						<ul block="footerservices" class="menu" role="menu">
+		
+								<li class="menu-item aog-aircraft-on-ground">
+									<a href="/aog" data-drupal-link-system-path="node/4597">AOG (Aircraft on Ground)</a>
+											</li>
+								<li class="menu-item aftermarket-support">
+									<a href="/support/aftermarket-support" data-drupal-link-system-path="node/59">Aftermarket Support</a>
+											</li>
+								<li class="menu-item component-maintenance-manuals">
+									<a href="/aftermarket/component-maintenance-manuals" data-drupal-link-system-path="node/103">Component Maintenance Manuals</a>
+											</li>
+								<li class="menu-item modernizations--upgrades">
+									<a href="/modernizations-and-upgrades" data-drupal-link-system-path="node/117">Modernizations &amp; Upgrades</a>
+											</li>
+								<li class="menu-item repair-capabilities">
+									<a href="/services/repair-capabilities">Repair Capabilities</a>
+											</li>
+								<li class="menu-item rfq">
+									<a href="/RFQ" data-drupal-link-system-path="node/109">RFQ</a>
+											</li>
+		
+		</ul>
+	
+
+
+    
+    
+</nav>
+<nav role="navigation" aria-labelledby="block-footercompany-menu" id="block-footercompany" class="block-footercompany col-md-3 col-lg-2">
+            
+    <h2 id="block-footercompany-menu">Company</h2>
+
+                
+						<ul block="footercompany" class="menu" role="menu">
+		
+								<li class="menu-item brands">
+									<a href="/company/about-us-brands" data-drupal-link-system-path="node/475">Brands</a>
+											</li>
+								<li class="menu-item our-quality">
+									<a href="/quality" data-drupal-link-system-path="node/49">Our Quality</a>
+											</li>
+								<li class="menu-item news">
+									<a href="/crane-ae-news" data-drupal-link-system-path="node/95">News</a>
+											</li>
+								<li class="menu-item upcoming-events">
+									<a href="/company/upcoming-events" data-drupal-link-system-path="node/4552">Upcoming Events</a>
+											</li>
+								<li class="menu-item locations">
+									<a href="/company/locations" data-drupal-link-system-path="node/477">Locations</a>
+											</li>
+								<li class="menu-item contact">
+									<a href="/company/contact-us" data-drupal-link-system-path="node/101">Contact</a>
+											</li>
+		
+		</ul>
+	
+
+
+    
+    
+</nav>
+<nav role="navigation" aria-labelledby="block-useraccountmenu-menu" id="block-useraccountmenu" class="block-useraccountmenu">
+			
+	<h2 id="block-useraccountmenu-menu">Login</h2>
+
+				
+						<ul block="useraccountmenu" class="menu" role="menu">
+		
+								<li class="menu-item spares-catalog">
+									<a href="/support/commercial-spares" data-drupal-link-system-path="node/79">Spares Catalog</a>
+											</li>
+								<li class="menu-item suppliers">
+									<a href="/aftermarket/suppliers">Suppliers</a>
+											</li>
+								<li class="menu-item collapsed supportweb">
+									<a href="/aftermarket/supportweb" data-drupal-link-system-path="node/81">SupportWeb</a>
+											</li>
+								<li class="menu-item log-in">
+									<a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+											</li>
+		
+		</ul>
+	
+
+
+	
+	
+</nav>
+
+		</div>
+	</div>
+
+			
+					<div class="footer-copyright container">
+			<div id="block-copyright" class="block-copyright block">
+	<div class="block-outer">
+		<div class="block-inner">
+			
+			
+							<div class="d-md-flex justify-content-between">
+					<div class="copyright-left">
+						
+            <div class="body"><p>Copyright © Crane Aerospace &amp; Electronics 2021</p></div>
+      
+						
+      <div class="field-copyright-menu-links">
+              <div><a href="/privacy-statement">Privacy Policy</a></div>
+              <div><a href="/termsofuse">Terms of Use</a></div>
+          </div>
+  
+					</div>
+					<div class="copyright-right">
+						
+      <div class="field-social-media-channels">
+              <div><div class="paragraph paragraph--type--linked-icon paragraph--view-mode--default">
+	<a href="http://www.linkedin.com/companies/crane-aerospace-electronics"
+					target="_blank"
+				title="linkedin">
+					<i class="fa fa-linkedin"></i>
+			</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--linked-icon paragraph--view-mode--default">
+	<a href="https://twitter.com/craneae"
+					target="_blank"
+				title="twitter">
+					<i class="fa fa-twitter"></i>
+			</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--linked-icon paragraph--view-mode--default">
+	<a href="https://www.facebook.com/CraneAE/"
+					target="_blank"
+				title="facebook">
+					<i class="fa fa-facebook-f"></i>
+			</a>
+</div></div>
+              <div><div class="paragraph paragraph--type--linked-icon paragraph--view-mode--default">
+	<a href="http://www.youtube.com/CraneAerospace"
+					target="_blank"
+				title="youtube">
+					
+            <div class="field-icon">  <img src="/sites/default/files/styles/max_height_22px/public/icons/youtube-48.png?itok=O7cCDfHb" width="22" height="22" alt="youtube" typeof="foaf:Image" />
+
+
+</div>
+      
+			</a>
+</div></div>
+          </div>
+  
+					</div>
+				</div>
+			
+			
+		</div>
+	</div>
+</div>
+
+	</div>
+
+		</footer>
+	
+	
+			        <div class="footer-cookiebanner">
+        <script type="text/javascript" id="cookiebanner"
+        src="/themes/craneae/js/cookiebanner.min.js"
+        data-moreinfo="/privacy-statement"
+        data-bg="#828282"
+        data-link="#294ADE"
+        data-linkmsg="Learn More"
+        data-height="30"
+        data-font-size="16px"
+        data-padding="15px"
+        data-close-text="<i class='fas fa-times-circle'></i>"
+        data-message="We use cookies to improve your browsing experience.">
+</script>
+    </div>
+
+	
+</div>
+
+  </div>
+
+		
+		<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1017","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"anchor_link\/drupal.anchor_link,better_exposed_filters\/general,cae_form_behaviors\/cae_product_selector,ckeditor_indentblock\/indentblock,core\/html5shiv,craneae\/global-styling,paragraphs\/drupal.paragraphs.unpublished,system\/base,views\/views.ajax,views\/views.module","theme":"craneae","theme_token":null},"ajaxTrustedUrl":{"\/products\/interpoint":true,"\/search":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:89a90b4422177ec6bfeb97c9a425d221a598f4f99dc81358aaf15da5f4b6998e":{"view_name":"product_selector","view_display_id":"block_1","view_args":"","view_path":"\/node\/1017","view_base_path":null,"view_dom_id":"89a90b4422177ec6bfeb97c9a425d221a598f4f99dc81358aaf15da5f4b6998e","pager_element":0}}},"user":{"uid":0,"permissionsHash":"8893ee6b5eae9817f674289e84605cc3c70ed931fd2e2611816bc539b227097a"}}</script>
+<script src="/sites/default/files/js/js_89Z6q3SnYdvXP6vPsTMZUiZA2c6BOEPEkDCz7YbajmI.js"></script>
+
+	</body>
+</html>
